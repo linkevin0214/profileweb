@@ -7,7 +7,7 @@ import router from '../router';
         <nav class="navbar" style="background: #333;">
             <router-link to="/home" class="nav-item">首頁</router-link>
             <router-link to="/about" class="nav-item">關於我</router-link>
-            <router-link to="/services" class="nav-item">我的服務</router-link>
+            <router-link to="/services" class="nav-item">提供服務</router-link>
             <router-link to="/contact" class="nav-item">聯絡我</router-link>
 
         </nav>
