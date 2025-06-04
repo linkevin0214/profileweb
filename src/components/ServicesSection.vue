@@ -1,11 +1,11 @@
 <template>
   <!-- 我提供的服務 -->
-  <section class="bg-gradient-to-b from-gray-900 to-gray-800 min-h-screen py-16 px-6">
+<section class="w-full min-h-screen bg-gradient-to-b py-16 px-4 md:px-8 from-gray-900 to-gray-800 text-white overflow-x-hidden">
     <h1 class="text-3xl md:text-4xl font-bold text-center text-white mb-12">我提供的服務</h1>
     <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto">
       <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
         <h3 class="text-xl font-semibold text-blue-600 mb-2">後端開發</h3>
-        <p class="text-gray-700">具備 C#、Node.js、PHP 等經驗，擅長 API 設計與資料庫建置</p>
+        <p class="text-gray-700">具備 C#、Node.js、PHP 等經驗，擅長 API 設計</p>
       </div>
       <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
         <h3 class="text-xl font-semibold text-blue-600 mb-2">Android App 開發</h3>

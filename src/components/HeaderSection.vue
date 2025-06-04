@@ -4,7 +4,7 @@ import router from '../router';
 </script>
 
 <template>
-  <div class="min-h-screen bg-gradient-to-b from-gray-900 to-gray-800 text-white">
+  <div class="w-  min-h-screen bg-gradient-to-b from-gray-900 to-gray-800 text-white">
     <!-- Hero Section -->
     <section class="text-center py-24 px-6">
       <h1 class="text-5xl font-extrabold tracking-tight mb-4">嗨，我是Kevin 👋</h1>
