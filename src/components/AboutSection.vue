@@ -49,8 +49,6 @@
         </p>
       </div>
     </li>
-  
-
   </ul>
       </div>
       <div class="bg-white rounded-2xl p-8 shadow-lg">
