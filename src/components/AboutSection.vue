@@ -11,46 +11,6 @@
         </p>
       </div>
 
-      <!-- 學歷 -->
-      <div class="bg-white rounded-2xl p-8 shadow-lg">
-        <h3 class="text-2xl font-semibold text-gray-800 mb-4 border-b border-gray-200 pb-2">🎓 學歷</h3>
-        <ul class="space-y-5 text-gray-800 text-[16px]">
-    
-    <!-- 工作經歷 1 -->
-    <li class="flex items-start gap-3">
-      <!-- 圓點 -->
-      <div class="pt-[6px]">
-        <span class="inline-block w-2 h-2 bg-green-500 rounded-full"></span>
-      </div>
-      <!-- 內容 -->
-      <div>
-        <p class="font-semibold">
-          <span class="text-gray-900">私立亞洲大學-資訊工程學系</span>
-          
-        </p>
-        <p class="text-sm text-gray-500 mt-0.4">
-          學士學位
-        </p>
-      </div>
-    </li>
-
-    <!-- 工作經歷 2 -->
-    <li class="flex items-start gap-3">
-      <div class="pt-[6px]">
-        <span class="inline-block w-2 h-2 bg-green-500 rounded-full"></span>
-      </div>
-      <div>
-        <p class="font-semibold">
-          <span class="text-gray-900">私立亞洲大學-資訊工程學系</span>
-          
-        </p>
-        <p class="text-sm text-gray-500 mt-0.4">
-          碩士學位
-        </p>
-      </div>
-    </li>
-  </ul>
-      </div>
       <div class="bg-white rounded-2xl p-8 shadow-lg">
   <h3 class="text-2xl font-semibold text-gray-800 mb-4 border-b border-gray-200 pb-2">💼 工作經歷</h3>
   <ul class="space-y-5 text-gray-800 text-[16px]">
