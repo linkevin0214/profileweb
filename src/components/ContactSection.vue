@@ -6,12 +6,12 @@
         <p class="flex items-center space-x-2">
           <span class="text-xl">📧</span>
           <span>
-            Email: <a href="mailto:example@example.com" class="text-blue-600 hover:underline">example@example.com</a>
+            Email: <a href="mailto:a102012030@gmail.com" class="text-blue-600 hover:underline">a102012030@gmail.com</a>
           </span>
         </p>
         <p class="flex items-center space-x-2">
           <span class="text-xl">📞</span>
-          <span>電話: 0900-123-456</span>
+          <span>電話: 0981-422-758</span>
         </p>
       </div>
     </div>
