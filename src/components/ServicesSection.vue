@@ -1,6 +1,9 @@
 <template>
+    <div class="space-y-12"> <!-- 這個容器控制三個區塊上下間距 -->
+
   <!-- 我提供的服務 -->
-<section class="w-full min-h-screen bg-gradient-to-b py-16 px-4 md:px-8 from-gray-900 to-gray-800 text-white overflow-x-hidden">
+<div class="rounded-2xl p-8 shadow-lg">
+  <section>
     <h1 class="text-3xl md:text-4xl font-bold text-center text-white mb-12">我提供的服務</h1>
     <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3 max-w-6xl mx-auto">
       <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
@@ -17,9 +20,10 @@
       </div>
     </div>
   </section>
-
-  <!-- 我曾串接的第三方服務 -->
-  <section class="bg-gradient-to-b from-gray-900 to-gray-800 min-h-screen py-16 px-6">
+</div>
+<div class="rounded-2xl p-8 shadow-lg">
+    <!-- 我曾串接的第三方服務 -->
+<section>
     <h2 class="text-2xl md:text-3xl font-bold text-center text-white mb-8">我曾串接的第三方服務</h2>
     <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 max-w-5xl mx-auto">
       <div class="flex flex-col items-center p-4 bg-white rounded-lg shadow hover:shadow-md transition">
@@ -48,9 +52,11 @@
       </div>
     </div>
   </section>
+</div>
 
-  <!-- 我曾開發過的硬體 -->
-  <section class="bg-gradient-to-b from-gray-900 to-gray-800 min-h-screen py-16 px-6">
+  <div class="rounded-2xl p-8 shadow-lg">
+ <!-- 我曾開發過的硬體 -->
+  <section>
     <h2 class="text-2xl md:text-3xl font-bold text-center text-white mb-8">我曾開發過的硬體</h2>
     <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 max-w-5xl mx-auto">
       <div class="flex flex-col items-center p-4 bg-white rounded-lg shadow hover:shadow-md transition">
@@ -75,4 +81,7 @@
       </div>
     </div>
   </section>
+  </div>
+
+ </div>
 </template>

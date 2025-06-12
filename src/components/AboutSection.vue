@@ -1,5 +1,5 @@
 <template>
-<section class="w-full min-h-screen bg-gradient-to-b py-16 px-4 md:px-8 from-gray-900 to-gray-800 text-white overflow-x-hidden">
+<section>
     <div class="max-w-4xl mx-auto space-y-12">
 
       <!-- 關於我 -->
